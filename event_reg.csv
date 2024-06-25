@@ -1,0 +1,201 @@
+ID,Department,College,Preferred_Date,First_Interest,Second_Interest,Third_Interest,Fourth_Interest,Physical_Participation,Language_Preference,Participated,TAScore
+1,CSE,DKTE,25 June 2020,Python Programming and Data Science Foundations,Web Development,,,Yes,Hindi,No,
+2,IT,DKTE,25 June 2020,Python Programming and Data Science Foundations,Web Development,,,Yes,Marathi,Yes,75
+3,CSE,DKTE,30 June 2020,Machine Learning,Python Programming and Data Science Foundations,,,Yes,English,No,
+4,CSE,DKTE,25 June 2020,Machine Learning,Python Programming and Data Science Foundations,,,Yes,English,Yes,80
+5,ME,DKTE,25 June 2020,Python Programming and Data Science Foundations,Web Development,,,Yes,English,Yes,90
+6,CSE,SIT,25 June 2020,Python Programming and Data Science Foundations,Machine Learning,,,Yes,Marathi,Yes,55
+7,ETRX,DKTE,2 July 2020,Raspberry Pi Programming and Embedded Basics,Arduino Programming,,,Yes,English,No,
+8,CSE,DKTE,30 June 2020,Python Programming and Data Science Foundations,Machine Learning,,,Yes,Hindi,Yes,65
+9,ETRX,DKTE,25 June 2020,Python Programming and Data Science Foundations,Web Development,,,Yes,English,Yes,80
+10,ENTC,DKTE,25 June 2020,Python Programming and Data Science Foundations,Web Development,,,Yes,English,No,
+11,IT,ADCET,25 June 2020,Machine Learning,Web Development,,,Yes,Marathi,Yes,75
+12,EE,DKTE,25 June 2020,Python Programming and Data Science Foundations,Softskills,,,Yes,English,Yes,50
+13,CSE,DKTE,25 June 2020,Machine Learning,Python Programming and Data Science Foundations,,,Yes,Hindi,Yes,95
+14,ME,WCE,25 June 2020,Machine Learning,Web Development,,,Yes,English,No,
+15,ETRX,DKTE,25 June 2020,Python Programming and Data Science Foundations,Arduino Programming,Machine Learning,,Yes,English,Yes,60
+16,CSE,ADCET,25 June 2020,Python Programming and Data Science Foundations,Machine Learning,Raspberry Pi Programming and Embedded Basics,Web Development,Yes,Marathi,Yes,80
+17,CE,SIT,25 June 2020,Machine Learning,Python Programming and Data Science Foundations,Softkills,,Yes,English,Yes,90
+18,CSE,DKTE,25 June 2020,Python Programming and Data Science Foundations,Machine Learning,Arduino Programming,,Yes,Hindi,No,
+19,ENTC,RIT,25 June 2020,Python Programming and Data Science Foundations,Machine Learning,Raspberry Pi Programming and Embedded Basics,Web Development,Yes,English,Yes,60
+20,IT,DKTE,25 June 2020,Python Programming and Data Science Foundations,Machine Learning,Raspberry Pi Programming and Embedded Basics,Web Development,Yes,Hindi,Yes,70
+21,CSE,ADCET,30 June 2020,Web Development,Python Programming and Data Science Foundations,Raspberry Pi Programming and Embedded Basics,Arduino Programming,Yes,English,Yes,70
+22,CSE,PVPIT,25 June 2020,Python Programming and Data Science Foundations,Machine Learning,Arduino Programming,Web Development,Yes,Marathi,Yes,80
+23,CSE,DKTE,2 July 2020,Python Programming and Data Science Foundations,Machine Learning,,,Yes,Marathi,No,
+24,ETRX,DKTE,25 June 2020,Python Programming and Data Science Foundations,Softskills,Machine Learning,Web Development,Yes,English,No,
+25,ME,DKTE,25 June 2020,Python Programming and Data Science Foundations,Softskills,Machine Learning,Solidworks,Yes,Hindi,Yes,90
+26,ME,RIT,25 June 2020,Python Programming and Data Science Foundations,Softskills,Machine Learning,Solidworks,Yes,English,Yes,65
+27,CE,DKTE,25 June 2020,Python Programming and Data Science Foundations,Raspberry Pi Programming and Embedded Basics,Arduino Programming,Softskills,Yes,English,Yes,85
+28,ENTC,SIT,25 June 2020,Arduino Programming,Raspberry Pi Programming and Embedded Basics,Softkills,Python Programming and Data Science Foundations,No,English,Yes,95
+29,ETRX,SIT,25 June 2020,Python Programming and Data Science Foundations,Machine Learning,Web Development,Softskills,Yes,English,Yes,60
+30,ETRX,SIT,25 June 2020,Web Development,Python Programming and Data Science Foundations,Machine Learning,Arduino Programming,Yes,English,No,
+31,EE,DKTE,25 June 2020,Python Programming and Data Science Foundations,Raspberry Pi Programming and Embedded Basics,Web Development,Softskills,Yes,English,Yes,55
+32,CSE,DKTE,30 June 2020,Python Programming and Data Science Foundations,Web Development,Machine Learning,Softskills,Yes,English,No,
+33,IT,DKTE,2 July 2020,Web Development,Python Programming and Data Science Foundations,Raspberry Pi Programming and Embedded Basics,Machine Learning,Yes,Marathi,Yes,70
+34,CE,RIT,25 June 2020,Python Programming and Data Science Foundations,Softskills,Machine Learning,Web Development,Yes,English,Yes,80
+35,ME,ADCET,2 July 2020,Python Programming and Data Science Foundations,Web Development,Solidworks,,No,Marathi,Yes,80
+36,ENTC,DKTE,30 June 2020,Web Development,Softskills,Machine Learning,Arduino Programming,Yes,Hindi,Yes,50
+37,ETRX,SIT,25 June 2020,Python Programming and Data Science Foundations,Machine Learning,Web Development,Softskills,Yes,Marathi,Yes,90
+38,CSE,DKTE,25 June 2020,Python Programming and Data Science Foundations,Raspberry Pi Programming and Embedded Basics,Web Development,Machine Learning,Yes,English,No,
+39,ETRX,DKTE,25 June 2020,Raspberry Pi Programming and Embedded Basics,Python Programming and Data Science Foundations,Softkills,Machine Learning,Yes,English,Yes,40
+40,ME,DKTE,25 June 2020,Solidworks,Web Development,,,Yes,English,Yes,70
+41,CSE,SIT,30 June 2020,Python Programming and Data Science Foundations,Machine Learning,Web Development,Arduino Programming,Yes,Hindi,No,
+42,ME,RIT,25 June 2020,Python Programming and Data Science Foundations,Solidworks,Machine Learning,,Yes,Marathi,Yes,45
+43,ENTC,DKTE,25 June 2020,Softskills,Web Development,Raspberry Pi Programming and Embedded Basics,Solidworks,Yes,English,Yes,100
+44,ME,DKTE,25 June 2020,Solidworks,Machine Learning,Arduino Programming,Raspberry Pi Programming and Embedded Basics,Yes,English,No,
+45,ETRX,PVPIT,25 June 2020,Arduino Programming,Raspberry Pi Programming and Embedded Basics,Solidworks,Machine Learning,Yes,English,Yes,80
+46,CSE,DKTE,25 June 2020,Python Programming and Data Science Foundations,Softskills,Machine Learning,,Yes,English,No,
+47,EE,RIT,25 June 2020,Python Programming and Data Science Foundations,Machine Learning,Raspberry Pi Programming and Embedded Basics,Web Development,Yes,English,Yes,85
+48,CE,DKTE,25 June 2020,Arduino Programming,Web Development,Softkills,Machine Learning,Yes,Marathi,Yes,70
+49,ENTC,DKTE,25 June 2020,Softskills,Web Development,Machine Learning,,Yes,English,Yes,90
+50,CSE,JJM,25 June 2020,Python Programming and Data Science Foundations,Machine Learning,Web Development,Arduino Programming,Yes,English,Yes,60
+51,CSE,JJM,25 June 2020,Arduino Programming,Softskills,,,No,English,Yes,50
+52,CSE,DKTE,30 June 2020,Softskills,Python Programming and Data Science Foundations,Machine Learning,Arduino Programming,Yes,Marathi,No,
+53,ETRX,DKTE,30 June 2020,Softskills,Python Programming and Data Science Foundations,Machine Learning,Arduino Programming,Yes,Marathi,Yes,50
+54,IT,WCE,25 June 2020,Arduino Programming,Python Programming and Data Science Foundations,Machine Learning,Web Development,No,English,Yes,95
+55,ETRX,WCE,25 June 2020,Arduino Programming,Raspberry Pi Programming and Embedded Basics,Python Programming and Data Science Foundations,Machine Learning,Yes,English,Yes,100
+56,CSE,DKTE,25 June 2020,Python Programming and Data Science Foundations,Machine Learning,Web Development,Softskills,Yes,English,No,
+57,CSE,DKTE,25 June 2020,Machine Learning,Web Development,Python Programming and Data Science Foundations,,Yes,English,No,
+58,ME,DKTE,25 June 2020,Machine Learning,Solidworks,Softkills,Python Programming and Data Science Foundations,Yes,Marathi,No,
+59,CSE,ADCET,2 July 2020,Machine Learning,Python Programming and Data Science Foundations,,,No,English,Yes,40
+60,ME,SIT,30 June 2020,Python Programming and Data Science Foundations,Softskills,Machine Learning,Web Development,Yes,English,No,
+61,ETRX,DKTE,30 June 2020,Python Programming and Data Science Foundations,Raspberry Pi Programming and Embedded Basics,Arduino Programming,Machine Learning,Yes,English,Yes,50
+62,CSE,RIT,2 July 2020,Python Programming and Data Science Foundations,Machine Learning,Web Development,Raspberry Pi Programming and Embedded Basics,Yes,English,Yes,65
+63,IT,WCE,25 June 2020,Python Programming and Data Science Foundations,Machine Learning,Raspberry Pi Programming and Embedded Basics,Solidworks,Yes,English,Yes,70
+64,ME,DKTE,25 June 2020,Solidworks,Machine Learning,Web Development,Arduino Programming,Yes,English,No,
+65,CSE,DKTE,30 June 2020,Machine Learning,Python Programming and Data Science Foundations,Web Development,Softskills,Yes,English,Yes,70
+66,ENTC,SIT,25 June 2020,Arduino Programming,Raspberry Pi Programming and Embedded Basics,Solidworks,Softskills,Yes,English,Yes,80
+67,CSE,SIT,25 June 2020,Python Programming and Data Science Foundations,Web Development,Machine Learning,Arduino Programming,Yes,English,Yes,60
+68,CSE,DKTE,30 June 2020,Python Programming and Data Science Foundations,Web Development,Softkills,Raspberry Pi Programming and Embedded Basics,Yes,English,No,
+69,ENTC,RIT,25 June 2020,Machine Learning,Python Programming and Data Science Foundations,Softkills,Raspberry Pi Programming and Embedded Basics,Yes,English,No,
+70,CSE,DKTE,25 June 2020,Python Programming and Data Science Foundations,Machine Learning,Web Development,Arduino Programming,Yes,English,Yes,100
+71,IT,DKTE,30 June 2020,Softskills,Python Programming and Data Science Foundations,Machine Learning,,Yes,English,Yes,45
+72,CE,ADCET,25 June 2020,Raspberry Pi Programming and Embedded Basics,Python Programming and Data Science Foundations,Machine Learning,Web Development,Yes,English,No,
+73,ME,DKTE,25 June 2020,Softskills,Web Development,Machine Learning,Arduino Programming,Yes,English,Yes,95
+74,ME,DKTE,30 June 2020,Solidworks,Python Programming and Data Science Foundations,Web Development,Machine Learning,No,English,Yes,100
+75,EE,DKTE,25 June 2020,Python Programming and Data Science Foundations,Softskills,Machine Learning,Web Development,Yes,English,Yes,35
+76,CSE,SGI,2 July 2020,Python Programming and Data Science Foundations,Web Development,Softkills,Arduino Programming,Yes,English,Yes,50
+77,ME,DKTE,25 June 2020,Solidworks,Machine Learning,Raspberry Pi Programming and Embedded Basics,Web Development,Yes,Marathi,Yes,60
+78,ME,DKTE,25 June 2020,Solidworks,Python Programming and Data Science Foundations,Machine Learning,Softskills,Yes,Marathi,No,
+79,ME,RIT,25 June 2020,Solidworks,Machine Learning,Softkills,Raspberry Pi Programming and Embedded Basics,Yes,English,Yes,80
+80,IT,DKTE,25 June 2020,Python Programming and Data Science Foundations,Machine Learning,Softkills,Web Development,Yes,English,No,
+81,CSE,DKTE,25 June 2020,Machine Learning,Web Development,Softkills,Python Programming and Data Science Foundations,Yes,Marathi,Yes,55
+82,ETRX,SIT,25 June 2020,Arduino Programming,Python Programming and Data Science Foundations,Machine Learning,Web Development,Yes,English,No,
+83,CSE,PVPIT,25 June 2020,Python Programming and Data Science Foundations,Web Development,Machine Learning,Softskills,Yes,English,Yes,75
+84,ETRX,SGI,30 June 2020,Python Programming and Data Science Foundations,Raspberry Pi Programming and Embedded Basics,Arduino Programming,Softskills,Yes,Hindi,Yes,80
+85,CSE,SGI,25 June 2020,Machine Learning,Python Programming and Data Science Foundations,Arduino Programming,Raspberry Pi Programming and Embedded Basics,Yes,Marathi,No,
+86,ME,SIT,25 June 2020,Python Programming and Data Science Foundations,Machine Learning,Arduino Programming,Web Development,Yes,English,Yes,80
+87,IT,RIT,30 June 2020,Machine Learning,Web Development,Python Programming and Data Science Foundations,Solidworks,Yes,Marathi,No,
+88,CSE,DKTE,30 June 2020,Raspberry Pi Programming and Embedded Basics,Python Programming and Data Science Foundations,Machine Learning,Web Development,Yes,English,Yes,75
+89,CSE,DKTE,2 July 2020,Python Programming and Data Science Foundations,Machine Learning,Web Development,Solidworks,Yes,English,No,
+90,ETRX,DKTE,2 July 2020,Machine Learning,Python Programming and Data Science Foundations,Arduino Programming,Raspberry Pi Programming and Embedded Basics,Yes,English,No,
+91,ETRX,SIT,2 July 2020,Web Development,Python Programming and Data Science Foundations,Machine Learning,Raspberry Pi Programming and Embedded Basics,Yes,Hindi,Yes,90
+92,ME,KIT,25 June 2020,Python Programming and Data Science Foundations,Machine Learning,Web Development,Softskills,No,English,No,
+93,ETRX,DKTE,25 June 2020,Python Programming and Data Science Foundations,Machine Learning,Web Development,Softskills,Yes,English,Yes,50
+94,ME,PVPIT,25 June 2020,Solidworks,Python Programming and Data Science Foundations,Machine Learning,Arduino Programming,No,English,Yes,65
+95,ME,DKTE,30 June 2020,Solidworks,Web Development,Python Programming and Data Science Foundations,Arduino Programming,Yes,English,No,
+96,CSE,DKTE,25 June 2020,Python Programming and Data Science Foundations,Machine Learning,Raspberry Pi Programming and Embedded Basics,Softskills,Yes,English,Yes,75
+97,CSE,DKTE,25 June 2020,Machine Learning,Softskills,Python Programming and Data Science Foundations,Web Development,Yes,English,No,
+98,IT,KIT,25 June 2020,Machine Learning,Softskills,Python Programming and Data Science Foundations,Solidworks,Yes,English,Yes,85
+99,CSE,DKTE,30 June 2020,Machine Learning,Python Programming and Data Science Foundations,Web Development,Softskills,Yes,English,Yes,90
+100,CSE,DKTE,25 June 2020,Python Programming and Data Science Foundations,Machine Learning,Arduino Programming,Web Development,Yes,English,Yes,55
+101,ETRX,SIT,25 June 2020,Arduino Programming,Raspberry Pi Programming and Embedded Basics,Python Programming and Data Science Foundations,Web Development,Yes,English,Yes,100
+102,ENTC,JJM,25 June 2020,Python Programming and Data Science Foundations,Machine Learning,,,Yes,English,No,
+103,CE,WCE,25 June 2020,Web Development,Python Programming and Data Science Foundations,Softkills,,Yes,Hindi,Yes,50
+104,CSE,WCE,25 June 2020,Python Programming and Data Science Foundations,Machine Learning,Arduino Programming,Raspberry Pi Programming and Embedded Basics,Yes,English,Yes,65
+105,ETRX,WCE,2 July 2020,Softskills,Raspberry Pi Programming and Embedded Basics,Arduino Programming,Machine Learning,Yes,English,No,
+106,IT,SIT,25 June 2020,Web Development,Machine Learning,Softkills,Arduino Programming,Yes,English,Yes,90
+107,CSE,SIT,25 June 2020,Python Programming and Data Science Foundations,Machine Learning,Web Development,Softskills,Yes,English,Yes,85
+108,CSE,SIT,25 June 2020,Python Programming and Data Science Foundations,Machine Learning,Web Development,Softskills,Yes,English,No,
+109,ETRX,SGI,25 June 2020,Web Development,Raspberry Pi Programming and Embedded Basics,Machine Learning,Python Programming and Data Science Foundations,No,English,Yes,100
+110,ME,DKTE,25 June 2020,Softskills,Python Programming and Data Science Foundations,Solidworks,,Yes,Marathi,Yes,40
+111,CSE,RIT,25 June 2020,Machine Learning,Python Programming and Data Science Foundations,Web Development,Softskills,Yes,Hindi,Yes,50
+112,IT,DKTE,25 June 2020,Machine Learning,Python Programming and Data Science Foundations,Web Development,Softskills,Yes,Hindi,Yes,75
+113,CSE,DKTE,25 June 2020,Python Programming and Data Science Foundations,Web Development,Machine Learning,Softskills,Yes,English,Yes,60
+114,ETRX,WCE,25 June 2020,Softskills,Python Programming and Data Science Foundations,Machine Learning,Web Development,Yes,English,Yes,90
+115,CE,DKTE,30 June 2020,Python Programming and Data Science Foundations,Machine Learning,Web Development,Solidworks,Yes,English,No,
+116,ETRX,WCE,25 June 2020,Machine Learning,Raspberry Pi Programming and Embedded Basics,Arduino Programming,Web Development,No,English,No,
+117,CSE,DKTE,2 July 2020,Web Development,Python Programming and Data Science Foundations,Machine Learning,,No,Marathi,Yes,80
+118,IT,DKTE,25 June 2020,Web Development,Python Programming and Data Science Foundations,Softkills,,Yes,English,Yes,50
+119,ETRX,WCE,25 June 2020,Python Programming and Data Science Foundations,Web Development,Softkills,Machine Learning,No,English,Yes,45
+120,ETRX,DKTE,25 June 2020,Python Programming and Data Science Foundations,Arduino Programming,Web Development,Solidworks,Yes,English,Yes,80
+121,CSE,DKTE,25 June 2020,Python Programming and Data Science Foundations,Softskills,Web Development,Machine Learning,Yes,English,Yes,85
+122,ME,DKTE,25 June 2020,Solidworks,Machine Learning,Python Programming and Data Science Foundations,Raspberry Pi Programming and Embedded Basics,Yes,English,No,
+123,ETRX,DKTE,25 June 2020,Arduino Programming,Softskills,Python Programming and Data Science Foundations,Web Development,Yes,Hindi,Yes,50
+124,ETRX,KIT,25 June 2020,Arduino Programming,Softskills,Machine Learning,Python Programming and Data Science Foundations,Yes,English,No,
+125,ETRX,DKTE,25 June 2020,Arduino Programming,Softskills,Python Programming and Data Science Foundations,,Yes,Hindi,Yes,100
+126,ENTC,DKTE,25 June 2020,Softskills,Arduino Programming,Machine Learning,Python Programming and Data Science Foundations,Yes,Marathi,No,
+127,CSE,DKTE,25 June 2020,Machine Learning,Raspberry Pi Programming and Embedded Basics,Solidworks,Web Development,Yes,English,No,
+128,CSE,RIT,25 June 2020,Python Programming and Data Science Foundations,Softskills,Web Development,Machine Learning,Yes,English,Yes,75
+129,IT,DKTE,25 June 2020,Python Programming and Data Science Foundations,Machine Learning,,,Yes,English,Yes,80
+130,CSE,DKTE,25 June 2020,Python Programming and Data Science Foundations,Web Development,Softkills,Machine Learning,Yes,English,Yes,90
+131,CSE,SIT,25 June 2020,Python Programming and Data Science Foundations,Softskills,Machine Learning,Web Development,Yes,Marathi,Yes,50
+132,ETRX,DKTE,2 July 2020,Machine Learning,Arduino Programming,Python Programming and Data Science Foundations,Raspberry Pi Programming and Embedded Basics,No,Hindi,No,
+133,IT,DKTE,25 June 2020,Python Programming and Data Science Foundations,Web Development,Softkills,Arduino Programming,Yes,Hindi,Yes,55
+134,ME,PVPIT,25 June 2020,Solidworks,Arduino Programming,Raspberry Pi Programming and Embedded Basics,Python Programming and Data Science Foundations,No,Marathi,Yes,70
+135,CSE,DKTE,30 June 2020,Machine Learning,Python Programming and Data Science Foundations,,,Yes,English,Yes,80
+136,ME,DKTE,25 June 2020,Solidworks,Python Programming and Data Science Foundations,Arduino Programming,Web Development,Yes,Marathi,Yes,40
+137,CSE,MITCOE,25 June 2020,Machine Learning,Web Development,Softkills,Arduino Programming,Yes,Marathi,Yes,20
+138,IT,DKTE,25 June 2020,Softskills,Machine Learning,Web Development,Arduino Programming,No,Marathi,Yes,55
+139,ETRX,DKTE,25 June 2020,Softskills,Machine Learning,Arduino Programming,Web Development,No,English,Yes,65
+140,CSE,DKTE,25 June 2020,Softskills,Solidworks,Arduino Programming,Web Development,No,Marathi,Yes,75
+141,ETRX,PVPIT,25 June 2020,Arduino Programming,Raspberry Pi Programming and Embedded Basics,Softkills,Web Development,Yes,English,Yes,45
+142,ENTC,DKTE,25 June 2020,Arduino Programming,Solidworks,Raspberry Pi Programming and Embedded Basics,Softskills,Yes,English,Yes,70
+143,ETRX,SGI,25 June 2020,Arduino Programming,Softskills,Raspberry Pi Programming and Embedded Basics,Web Development,Yes,English,Yes,80
+144,ETRX,WCE,25 June 2020,Arduino Programming,Raspberry Pi Programming and Embedded Basics,Softkills,Web Development,Yes,Marathi,No,
+145,ME,SIT,25 June 2020,Solidworks,Web Development,Softkills,,No,Hindi,Yes,75
+146,ME,MITCOE,2 July 2020,Solidworks,Softskills,Arduino Programming,Web Development,No,English,Yes,60
+147,ETRX,MITCOE,2 July 2020,Arduino Programming,Raspberry Pi Programming and Embedded Basics,Solidworks,Softskills,Yes,Marathi,Yes,65
+148,CSE,RIT,30 June 2020,Machine Learning,Web Development,Python Programming and Data Science Foundations,Arduino Programming,No,Hindi,Yes,60
+149,CSE,SIT,30 June 2020,Python Programming and Data Science Foundations,Machine Learning,Web Development,Softskills,Yes,English,No,
+150,IT,DKTE,2 July 2020,Web Development,Machine Learning,Softkills,,Yes,Marathi,No,
+151,CSE,PVPIT,25 June 2020,Python Programming and Data Science Foundations,Machine Learning,Web Development,Softskills,No,Hindi,Yes,75
+152,ETRX,DKTE,30 June 2020,Raspberry Pi Programming and Embedded Basics,Arduino Programming,Web Development,Python Programming and Data Science Foundations,Yes,English,Yes,65
+153,CE,DKTE,2 July 2020,Solidworks,Python Programming and Data Science Foundations,Web Development,Softskills,Yes,Marathi,Yes,40
+154,CE,DKTE,25 June 2020,Solidworks,Machine Learning,Web Development,,No,Marathi,Yes,80
+155,IT,WCE,2 July 2020,Web Development,Python Programming and Data Science Foundations,,,Yes,English,No,
+156,CSE,DKTE,30 June 2020,Machine Learning,Web Development,,,Yes,English,Yes,75
+157,EE,RIT,30 June 2020,Raspberry Pi Programming and Embedded Basics,Arduino Programming,Softskills,,No,Hindi,Yes,65
+158,ENTC,DKTE,30 June 2020,Arduino Programming,Web Development,,,Yes,English,Yes,50
+159,ENTC,DKTE,25 June 2020,Raspberry Pi Programming and Embedded Basics,Softskills,,,Yes,Hindi,Yes,80
+160,CSE,WCE,2 July 2020,Machine Learning,Web Development,Python Programming and Data Science Foundations,Softskills,Yes,English,Yes,70
+161,IT,WCE,25 June 2020,Machine Learning,Web Development,Softskills,Python Programming and Data Science Foundations,Yes,English,No,
+162,CE,WCE,2 July 2020,Solidworks,Softskills,Python Programming and Data Science Foundations,Machine Learning,No,English,Yes,65
+163,CSE,RIT,30 June 2020,Python Programming and Data Science Foundations,Machine Learning,Web Development,Softskills,Yes,Hindi,Yes,80
+164,CSE,RIT,30 June 2020,Arduino Programming,Web Development,Machine Learning,,No,English,No,
+165,CSE,SIT,25 June 2020,Softskills,Web Development,Machine Learning,Python Programming and Data Science Foundations,Yes,Marathi,No,
+166,EE,RIT,2 July 2020,Python Programming and Data Science Foundations,Arduino Programming,Raspberry Pi Programming and Embedded Basics,Python Programming and Data Science Foundations,Yes,English,Yes,75
+167,CSE,PVPIT,25 June 2020,Python Programming and Data Science Foundations,Web Development,Machine Learning,Arduino Programming,No,Marathi,Yes,60
+168,IT,WCE,30 June 2020,Web Development,Machine Learning,,,No,English,No,
+169,EE,DKTE,2 July 2020,Machine Learning,Softskills,Raspberry Pi Programming and Embedded Basics,Web Development,Yes,English,Yes,55
+170,EE,RIT,25 June 2020,Python Programming and Data Science Foundations,Machine Learning,Arduino Programming,,Yes,Hindi,Yes,50
+171,ETRX,WCE,2 July 2020,Raspberry Pi Programming and Embedded Basics,Arduino Programming,Web Development,Softskills,Yes,Hindi,Yes,100
+172,IT,PVPIT,30 June 2020,Machine Learning,Web Development,Softskills,Web Development,Yes,Marathi,No,
+173,ME,DKTE,25 June 2020,Solidworks,Softskills,,,No,English,No,
+174,ENTC,ADCET,25 June 2020,Arduino Programming,Web Development,Raspberry Pi Programming and Embedded Basics,Softskills,Yes,English,Yes,65
+175,ME,SGI,30 June 2020,Solidworks,Web Development,Softskills,Python Programming and Data Science Foundations,Yes,English,Yes,95
+176,CSE,RIT,2 July 2020,Machine Learning,Web Development,Python Programming and Data Science Foundations,Softskills,No,English,Yes,70
+177,CSE,JJM,30 June 2020,Python Programming and Data Science Foundations,Web Development,Machine Learning,Solidworks,Yes,Marathi,Yes,80
+178,ME,PVPIT,30 June 2020,Solidworks,Web Development,Machine Learning,Softskills,Yes,English,No,
+179,ETRX,SIT,25 June 2020,Arduino Programming,Web Development,Raspberry Pi Programming and Embedded Basics,Softskills,Yes,Marathi,Yes,50
+180,EE,DKTE,30 June 2020,Raspberry Pi Programming and Embedded Basics,Arduino Programming,Softskills,Web Development,No,Hindi,Yes,55
+181,CSE,RIT,25 June 2020,Python Programming and Data Science Foundations,Arduino Programming,Softskills,Web Development,Yes,Marathi,Yes,60
+182,ME,RIT,2 July 2020,Arduino Programming,Solidworks,,,No,English,Yes,75
+183,CSE,SIT,30 June 2020,Arduino Programming,Python Programming and Data Science Foundations,Web Development,Softskills,Yes,English,Yes,65
+184,ME,ADCET,2 July 2020,Solidworks,Web Development,,,No,English,Yes,50
+185,ME,KIT,30 June 2020,Solidworks,Arduino Programming,,,Yes,Hindi,Yes,40
+186,ETRX,KIT,30 June 2020,Softskills,Arduino Programming,Python Programming and Data Science Foundations,Web Development,Yes,Marathi,No,
+187,ETRX,SIT,25 June 2020,Raspberry Pi Programming and Embedded Basics,Arduino Programming,Web Development,,No,English,No,
+188,IT,DKTE,2 July 2020,Softskills,Python Programming and Data Science Foundations,Arduino Programming,,No,Hindi,Yes,55
+189,EE,RIT,30 June 2020,Raspberry Pi Programming and Embedded Basics,Web Development,Solidworks,Arduino Programming,No,Marathi,Yes,60
+190,CE,WCE,30 June 2020,Solidworks,Arduino Programming,,,Yes,English,Yes,85
+191,EE,DKTE,30 June 2020,Raspberry Pi Programming and Embedded Basics,Softskills,Web Development,,Yes,English,No,
+192,EE,DKTE,2 July 2020,Arduino Programming,Raspberry Pi Programming and Embedded Basics,,,No,Hindi,No,
+193,IT,PVPIT,25 June 2020,Arduino Programming,Python Programming and Data Science Foundations,Softskills,Raspberry Pi Programming and Embedded Basics,Yes,Marathi,Yes,65
+194,CSE,SIT,30 June 2020,Web Development,Raspberry Pi Programming and Embedded Basics,,,No,Marathi,Yes,70
+195,ENTC,RIT,30 June 2020,Raspberry Pi Programming and Embedded Basics,Arduino Programming,Softskills,Raspberry Pi Programming and Embedded Basics,Yes,English,No,
+196,CSE,SGI,25 June 2020,Python Programming and Data Science Foundations,Raspberry Pi Programming and Embedded Basics,Web Development,,Yes,Marathi,Yes,90
+197,CSE,SGI,25 June 2020,Python Programming and Data Science Foundations,Softskills,Raspberry Pi Programming and Embedded Basics,Web Development,No,English,Yes,100
+198,IT,DKTE,30 June 2020,Softskills,Python Programming and Data Science Foundations,Raspberry Pi Programming and Embedded Basics,,Yes,English,No,
+199,ETRX,WCE,2 July 2020,Arduino Programming,Softskills,Solidworks,Python Programming and Data Science Foundations,Yes,Hindi,Yes,40
+200,ENTC,RIT,25 June 2020,Arduino Programming,Softskills,Python Programming and Data Science Foundations,Raspberry Pi Programming and Embedded Basics,No,Marathi,Yes,55
